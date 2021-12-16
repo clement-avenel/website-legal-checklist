@@ -1,3 +1,36 @@
 # Website legal checklist (🌍 FR)
 
-- [ ] Politique de confidentialité
+- [ ] Mentions Légales
+   - Identité d'un représentant légal
+   - Adresse de domiciliation
+   - Nom et Prénom
+   - Adresse mail
+   - Numéro de téléphone
+- [ ] Mentions légales (si site commercial)
+   - Raison sociale
+   - Forme juridique
+   - Adresse mail
+   - Numéro de téléphone
+   - Adresse du siège social
+   - Montant du capital
+   - Numéro d'inscription au registre du commerce et des sociétés (SIRET,RCS)
+   - Numéro de TVA
+   - Numéro d'immaticulation au répertoir des métiers
+- [ ] Mentions légales complémentaires (règles professionnelles pour les professions règlementées)
+   - Nom de l'autorité
+   - Adresse de l'autorité
+- [ ] Mentions légales (hébergement)
+   - Nom du directeur de publication
+   - Hébergement (Nom, Dénomination, Adresse, Numéro de téléphone)
+- [ ] Mentions légales complémentaires (sites marchands)
+   - Conditions Générales de Ventes (CGV)
+   - Prix (en € TTC) sur les fiches produits
+   - Frais et dates de livraison
+   - Modalités de paiement
+   - Service après-vente
+   - Droit de rétractation
+   - Durée de l'offre
+   - Coût de la communication à distance (frais téléphonique)
+
+- [ ] Droit applicable en cas de litige
+- [ ] Clause d'exclusion de responsabilité
