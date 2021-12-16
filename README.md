@@ -1,5 +1,7 @@
 # Website legal checklist (🌍 FR)
 
+### Mentions légales
+
 - [ ] Mentions Légales
    - Identité d'un représentant légal
    - Adresse de domiciliation
@@ -34,3 +36,31 @@
 
 - [ ] Droit applicable en cas de litige
 - [ ] Clause d'exclusion de responsabilité
+
+- [ ] Politique de confidentialité / Politique de protection de la vie privée
+- [ ] Politique de gestion des cookies
+- [ ] Les cookies non fonctionnels ne sont pas transmis avant le consentement du visiteur
+- [ ] Il est possible de retirer son accord après l'avoir donné
+- [ ] Il est possible de sélectionner les cookies que l'on souhaite accepter et ceux que l'on souhaite refuser
+
+- [ ] Avis clients
+   - origine de l'Avis
+   - méthode de modération
+   - rémunération éventuelle des auteurs de l'Avis
+   - date de publication
+   - date de modification
+   - tri chronologique des Avis
+   - annonce du temps maximum de conservation de l'Avis
+   - Explication d'un potentiel rejet d'Avis
+
+- [ ] Médiation e-commerce
+    - Le site propose un service de médiation en cas de litige
+
+- [ ] Autres obligations / interdictions
+    - Le site ne vend pas de contrefaçon ou des substances illicites
+    - Le site ne provoque pas des mineurs
+    - Le site n'initie pas à de la provocation à commettre des délits ou actes dangereux
+    - Le site ne discrimine personne
+    - Le site n'insulte personne
+    - Le site respecte le droit à l'image
+    - Le site respecte les droits d'auteur et le propriété intellectuelle
